@@ -6,4 +6,4 @@
 今回学習した内容
 ・git add
 ・git commit
-・git status (bit)
+・git status
